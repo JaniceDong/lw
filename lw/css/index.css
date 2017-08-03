@@ -1,0 +1,14 @@
+.imgPage{
+	width: 100%;
+}
+.imgPage ul li{
+	float: left;
+	margin: 2px;
+	padding: 2px;
+	border:2px solid white;
+	border-radius: 6px;
+	box-shadow: 0 0 10px #ccc;
+}
+.imgPage img{
+	height: 200px;
+}
